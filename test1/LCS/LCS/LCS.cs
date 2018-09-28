@@ -49,9 +49,16 @@ namespace LCS
                 }
             }
         }
+        /// <summary>
+        /// b表示方向矩阵，x为验证序列1，i表示验证序列x的长度，j表示验证序列y的长度
+        /// </summary>
+        /// <param name="b">方向矩阵</param>
+        /// <param name="X">验证序列1</param>
+        /// <param name="i">验证序列x的长度</param>
+        /// <param name="j">验证序列y的长度</param>
         public void LCSP(string[,] b, int[] X, int i, int j)
         {
-            if (i == 0 || j == 0)
+            if (i == -1 || j == -1)
             {
                 return;
             }
@@ -75,17 +82,7 @@ namespace LCS
             int[] list2 = { 34, 13, 44, 7, 25 };
             LCS lcs = new LCS();
             lcs.LCS_LENGTH(list1, list2);
-            for (int i = 0; i < list1.Length; i++)
-            {
-                for (int j = 0; j < list2.Length; j++)
-                {
-                    //lcs.LCSP(lcs.b, list1, i, j);
-                    if (lcs.b[i, j] == "left_up")
-                    {
-                        Console.WriteLine("{0}", list1[i]);
-                    }
-                }
-            }
+            lcs.LCSP(lcs.b, list1, list1.Length-1, list2.Length-1);
             Console.ReadLine();
         }
     }
