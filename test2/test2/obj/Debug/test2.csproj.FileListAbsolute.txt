@@ -1,8 +1,0 @@
-F:\工作\github\test\test2\test2\bin\Debug\test2.exe.config
-F:\工作\github\test\test2\test2\bin\Debug\test2.exe
-F:\工作\github\test\test2\test2\bin\Debug\test2.pdb
-F:\工作\github\test\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
-F:\工作\github\test\test2\test2\obj\Debug\test2.exe
-F:\工作\github\test\test2\test2\obj\Debug\test2.pdb
-F:\工作\github\test\test2\test2\bin\Debug\DocumentFormat.OpenXml.dll
-F:\工作\github\test\test2\test2\bin\Debug\DocumentFormat.OpenXml.xml
