@@ -12,31 +12,10 @@ namespace openXmlElement
     {
         static void Main(string[] args)
         {
-            string fileName = @"F:\工作\github\CSharp\test2\科研细则.docx";
-            try
-            {
-                using (WordprocessingDocument wordprocessingDocument =
-                WordprocessingDocument.Open(fileName, true))
-                {
-                    // 获取主体
-                    Body body = wordprocessingDocument.MainDocumentPart.Document.Body;
+            ReadWord readWord = new ReadWord(@"F:\工作\github\CSharp\test2\科研细则.docx");
+            Console.WriteLine(readWord.Text);
+            Console.ReadKey();
 
-                    // 获取所有元素
-                    IEnumerable<DocumentFormat.OpenXml.OpenXmlElement> elements = body.Elements<DocumentFormat.OpenXml.OpenXmlElement>();
-                    //遍历元素列表，输出内容
-                    foreach (DocumentFormat.OpenXml.OpenXmlElement element in elements)
-                    {
-                        Console.WriteLine(element.InnerText);
-                    }
-                    Console.ReadKey();
-                }
-            }
-            catch
-            {
-                Console.WriteLine("没有找到文件");
-                Console.ReadKey();
-            }
-            
         }
     }
 }
