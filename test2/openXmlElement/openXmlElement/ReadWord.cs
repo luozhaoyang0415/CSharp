@@ -10,6 +10,7 @@ namespace openXmlElement
     class ReadWord
     {
         public string Text = "";
+        public List<string> TextList = new List<string>();
         public ReadWord(string filename)
         {
             try
@@ -25,8 +26,10 @@ namespace openXmlElement
                     //遍历元素列表，输出内容
                     foreach (DocumentFormat.OpenXml.OpenXmlElement element in elements)
                     {
-                        Text += element.InnerText+ "\r\n";
+                        //Text += element.InnerText+ "\r\n";
                         //Console.WriteLine(element.InnerText);
+                        TextList.Add(element.InnerText);
+
                     }
                 }
             }

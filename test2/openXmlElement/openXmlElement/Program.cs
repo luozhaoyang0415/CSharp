@@ -13,7 +13,11 @@ namespace openXmlElement
         static void Main(string[] args)
         {
             ReadWord readWord = new ReadWord(@"F:\工作\github\CSharp\test2\科研细则.docx");
-            Console.WriteLine(readWord.Text);
+            foreach(string i in readWord.TextList)
+            {
+                Console.WriteLine(i);
+            }
+            
             Console.ReadKey();
 
         }
