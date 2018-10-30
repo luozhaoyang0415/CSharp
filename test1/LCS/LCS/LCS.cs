@@ -78,11 +78,11 @@ namespace LCS
         }
         static void Main(string[] args)
         {
-            int[] list1 = { 34, 72, 13, 44, 25, 30, 10,7 };
+            int[] list1 = { 34, 72, 13, 44, 25, 30, 10, 7 };
             int[] list2 = { 34, 13, 44, 7, 25 };
             LCS lcs = new LCS();
             lcs.LCS_LENGTH(list1, list2);
-            lcs.LCSP(lcs.b, list1, list1.Length-1, list2.Length-1);
+            lcs.LCSP(lcs.b, list1, list1.Length - 1, list2.Length - 1);
             Console.ReadLine();
         }
     }
