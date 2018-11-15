@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13174735-64b2-4cb6-8014-b096768b6816" name="Default Changelist" comment="new file">
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS.v12.suo" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS.v12.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/LCS.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/LCS.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/bin/Debug/LCS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/bin/Debug/LCS.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/bin/Debug/LCS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/bin/Debug/LCS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/LCS.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/LCS.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/LCS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/LCS.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/LCS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test1/LCS/LCS/obj/Debug/LCS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2/openXmlElement/.vs/openXmlElement/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/test2/openXmlElement/.vs/openXmlElement/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/实验四.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,24 +15,26 @@
     <session id="-1177788135">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.100" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.54" value="1" />
-          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.55" value="2" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.74" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="2" />
+          <entry key="cs" value="8" />
           <entry key="gitignore" value="1" />
           <entry key="md" value="4" />
           <entry key="xml" value="4" />
@@ -49,7 +44,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="2" />
+          <entry key="C#" value="8" />
           <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="4" />
@@ -58,14 +53,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="7" />
-          <entry key="md" value="272" />
+          <entry key="md" value="360" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="7" />
-          <entry key="Markdown" value="272" />
+          <entry key="Markdown" value="360" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -73,14 +68,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test2/实验二.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test3/实验三.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="247">
-                <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <first_editor relative-caret-position="73">
+                <caret line="280" column="40" selection-end-line="397" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test4/实验四.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-246">
+                <caret line="531" column="22" lean-forward="true" selection-start-line="531" selection-start-column="22" selection-end-line="531" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/GradeFile.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/LCS.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="236" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/EWordDocument.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/Grade.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1881">
+              <caret line="99" column="30" lean-forward="true" selection-end-line="116" />
             </state>
           </provider>
         </entry>
@@ -144,6 +187,9 @@
         <option value="$PROJECT_DIR$/test2/科研细则1.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test2/实验二.md" />
+        <option value="$PROJECT_DIR$/test3/实验三.md" />
+        <option value="$PROJECT_DIR$/test4/TestWindows/TestWindows/Grade.cs" />
+        <option value="$PROJECT_DIR$/test4/实验四.md" />
       </list>
     </option>
   </component>
@@ -153,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="3" />
     <option name="y" value="1" />
     <option name="width" value="1346" />
@@ -164,6 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -175,33 +223,36 @@
             <path>
               <item name="CSharp" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSharp" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
+              <item name="test3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CSharp" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSharp" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="openXmlElement" type="462c0819:PsiDirectoryNode" />
+              <item name="test4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CSharp" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSharp" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="openXmlElement" type="462c0819:PsiDirectoryNode" />
-              <item name="openXmlElement" type="462c0819:PsiDirectoryNode" />
+              <item name="test4" type="462c0819:PsiDirectoryNode" />
+              <item name="TestWindows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSharp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSharp" type="462c0819:PsiDirectoryNode" />
+              <item name="test4" type="462c0819:PsiDirectoryNode" />
+              <item name="TestWindows" type="462c0819:PsiDirectoryNode" />
+              <item name="TestWindows" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539779376796" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540986835686" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test2/科研细则.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -241,6 +292,9 @@
       <workItem from="1539743926722" duration="533000" />
       <workItem from="1539744615396" duration="2272000" />
       <workItem from="1539779092204" duration="381000" />
+      <workItem from="1540952899656" duration="130000" />
+      <workItem from="1540985971284" duration="861000" />
+      <workItem from="1542294677872" duration="521000" />
     </task>
     <task id="LOCAL-00001" summary="new file">
       <created>1538065003658</created>
@@ -305,16 +359,31 @@
       <option name="project" value="LOCAL" />
       <updated>1539779350124</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new file">
+      <created>1540986546995</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540986546995</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new file">
+      <created>1540986744315</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540986744315</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18105000" />
+    <option name="totallyTimeSpent" value="19617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="1" width="1346" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17962675" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1881804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -381,10 +450,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test2/科研细则.xml___jb_old___" />
     <entry file="file://$PROJECT_DIR$/test2/科研细则.xml___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/test2/实验二.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="418">
+            <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/exam/exam/LCS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="237" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/exam/exam/StringMatch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test2/科研细则.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270959">
           <caret line="14261" column="14" selection-start-line="14261" selection-start-column="14" selection-end-line="14261" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2/科研细则1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="109" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="109" />
         </state>
       </provider>
     </entry>
@@ -405,18 +505,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2/科研细则1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="109" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="109" />
+    <entry file="file://$PROJECT_DIR$/test3/实验三.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="73">
+            <caret line="280" column="40" selection-end-line="397" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test2/实验二.md">
+    <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/EWordDocument.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/LCS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/Grade.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="99" column="30" lean-forward="true" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/TestWindows/TestWindows/GradeFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/实验四.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="247">
-            <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <first_editor relative-caret-position="-246">
+            <caret line="531" column="22" lean-forward="true" selection-start-line="531" selection-start-column="22" selection-end-line="531" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
